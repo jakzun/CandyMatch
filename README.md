@@ -1,2 +1,2 @@
 # CandyMatch
-Cansy Match
+Candy Match
